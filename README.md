@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Aminu</h1>
 <h3 align="center">A Data Engineer with a strong Analytical and ML background.</h3>
 
-<p align="left"> <a href="https://twitter.com/numatelly" target="blank"><img src="https://img.shields.io/twitter/follow/numatelly?logo=twitter&style=for-the-badge" alt="numatelly" /></a> </p>
+<p align="left"> <a href="https://twitter.com/numatelly" target="blank"><img src="https://img.shields.io/twitter/follow/numatelly?logo=twitter&style=for-the-badge" alt="numatelly" /></a></p>
 
 - 🔭 I build pipelines and solve analytical and decision-making problems. 
 
@@ -13,16 +13,15 @@
 
 - 📫 How to reach me **numatelly@gmail.com** 
 
-I work on interesting projects:
+I have done some interesting projects in data collection, streaming, processing and transformation, scale and cost effective:
 - `Nike ETL Marketing Pipeline`; I had the privilege to build an e-commerce marketing pipeline that solves the headache of processing orders
 - `NGX Streaming`; Get your near-time analysis on the Nigerian Stock Exchange, with this pipeline and analytics I built
 - `Ride Pipeline`; Uber done cheaply. Look at how I built Uber's data architecture from scratch 
 - `Food Delivery`; Solve the Food Delivery problem in Nigeria. It is damn too slow. Check my solution (guess what, nothing new)
 - `Africa DataScrape`; have any Data about Africa at your disposal? Thank me later (lol).
-- and many more.......................
 
 
-- ⚡ Hobbies **
+- ⚡ Hobbies 
 I love reading, movies and music**
 
 <h3 align="left">Connect with me:</h3>
